@@ -1,4 +1,4 @@
-# 1: Airline Accidents
+# Airline Accidents
 
 In this project, I'll working with a dataset that contains `77282` aviation accidents that occurred in the US and their associated metadata. You can download the file [here]. Here's the beginning of the file:
 
@@ -29,6 +29,6 @@ Each row represents a single aviation accident, and contains descriptive data ab
 - Total Uninjured -- the number of people who weren't injured.
 - Broad Phase of Flight -- the phase of flight in which the accident occurred.
 
-## Goal: to utilize data structure concept for analyzing this dataset.
+## Goal: to utilize data structure concepts for analyzing this dataset.
 
 [here]: http://catalog.data.gov/dataset/aviation-data-and-documentation-from-the-ntsb-accident-database-system-05748/resource/4b1e95fe-91a7-4112-85fa-424d2672a906
